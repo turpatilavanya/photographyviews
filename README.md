@@ -1,3 +1,3 @@
 # photographyviews
 this is my final project
-#azure linkhttps://turpatilavanya.github.io/foodproject/
+#azure link https://turpatilavanya.github.io/foodproject/
